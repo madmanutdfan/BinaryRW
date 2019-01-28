@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BinaryRW:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="BinaryRW.jar">
+      <element id="module-output" name="BinaryRW" />
+    </root>
+  </artifact>
+</component>

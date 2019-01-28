@@ -1,0 +1,1 @@
+java BinaryRW.java input.dat a.dat
